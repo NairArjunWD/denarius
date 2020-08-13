@@ -1,24 +1,9 @@
-# README
+# Denarius
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a stock ticker that checks the current stock when you input the stock name.
 
 Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Change to pg
+* Build app
+* Translate all the javascript from my old project into ruby for this project.
