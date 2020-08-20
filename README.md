@@ -6,3 +6,8 @@ To Do:
 
 * Build app
 * Translate all the javascript from my old project into ruby for this project.
+
+Used:
+
+* Ruby on Rails
+* RapidAPI finance api
