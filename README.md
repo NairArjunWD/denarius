@@ -11,3 +11,4 @@ Used:
 
 * Ruby on Rails
 * RapidAPI finance api
+* unirest gem
