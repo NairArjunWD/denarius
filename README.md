@@ -6,6 +6,8 @@ To Do:
 
 * Build app
 * Translate all the javascript from my old project into ruby for this project.
+* Connect the API
+* Display correct information
 
 Used:
 
