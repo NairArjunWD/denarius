@@ -1,6 +1,6 @@
 # Denarius
 
-This is a stock ticker that checks the current stock when you input the stock name.
+This is a stock ticker that checks the current stock when you input the stock name. It uses a finance api from RapidAPI and uses the unirest gem to connect it with rails. 
 
 To Do:
 
